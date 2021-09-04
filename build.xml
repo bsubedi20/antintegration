@@ -1,4 +1,4 @@
-<xml version="1.0"
+<xml version="1.0">
 <Project name="sample project" default="info">
 <target name="info">
 <echo>Hello World - Welcome to Simplilearn DevOps </echo>
